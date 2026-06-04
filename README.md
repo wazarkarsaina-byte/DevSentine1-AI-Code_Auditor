@@ -1,2 +1,7 @@
-# DevSentine1-AI-Code_Auditor
-AI-powered code auditor that finds logical bugs , race conditions &amp; security flaws in java/python PRs
+# password checker
+simple python program that checks if password length > 6 using if-else and len()
+
+## how to run 
+1. copy code from password.py
+2. Run on any online python compiler like programiz.com
+3. Enter password when asked 
